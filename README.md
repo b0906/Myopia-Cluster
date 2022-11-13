@@ -4,10 +4,6 @@ In this project, I apply unsupervised learning by fitting data to a model and us
 I first process the raw data myopia.csv to fit the machine learning models. I use several clustering algorithms to explore whether the patients can be placed into distinct groups. Then, I create a visualization to share my findings.
 
 ## Steps:
-Part 1: Prepare the Data
-Part 2: Apply Dimensionality Reduction
-Part 3: Perform a Cluster Analysis with K-means
-Part 4: Make a Recommendation
 
 
 
